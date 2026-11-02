@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "TRIDENT: A reproducible trace-driven framework for joint security, performance, and reliability evaluation of cloud-native SASE architectures"
+type: software
+authors:
+  - family-names: Ding
+    given-names: Jianbo
+  - family-names: Qin
+    given-names: Yuxuan
+  - family-names: Chen
+    given-names: Tingjie
+  - family-names: Yang
+    given-names: Jie Si
+  - family-names: Wang
+    given-names: Xukang
+    email: kylewxk@uw.edu
+license: MIT
