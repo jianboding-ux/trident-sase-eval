@@ -1,0 +1,102 @@
+[
+ {
+  "style": "eq",
+  "pad": 10000,
+  "kind": "allowed",
+  "n": 25,
+  "first_ms": 1.742381999996212,
+  "median_ms": 1.1483245000007969,
+  "max_ms": 1.6409550000062723,
+  "decision": "allow"
+ },
+ {
+  "style": "eq",
+  "pad": 10000,
+  "kind": "denied",
+  "n": 25,
+  "first_ms": 1.0322900000048207,
+  "median_ms": 0.806176499999367,
+  "max_ms": 1.2298760000035713,
+  "decision": "geo_blocked"
+ },
+ {
+  "style": "sw",
+  "pad": 10000,
+  "kind": "allowed",
+  "n": 25,
+  "first_ms": 16.34704599999992,
+  "median_ms": 1.0072174999997685,
+  "max_ms": 7.326042999999061,
+  "decision": "allow"
+ },
+ {
+  "style": "sw",
+  "pad": 10000,
+  "kind": "denied",
+  "n": 25,
+  "first_ms": 0.7611620000034236,
+  "median_ms": 0.8583285000014484,
+  "max_ms": 8.648403999998777,
+  "decision": "geo_blocked"
+ },
+ {
+  "style": "re",
+  "pad": 100,
+  "kind": "allowed",
+  "n": 25,
+  "first_ms": 2.1528560000021457,
+  "median_ms": 1.0870459999985371,
+  "max_ms": 1.6992020000046182,
+  "decision": "allow"
+ },
+ {
+  "style": "re",
+  "pad": 100,
+  "kind": "denied",
+  "n": 25,
+  "first_ms": 1.771931000000393,
+  "median_ms": 1.2105454999975507,
+  "max_ms": 4.794988000000444,
+  "decision": "geo_blocked"
+ },
+ {
+  "style": "re",
+  "pad": 1000,
+  "kind": "allowed",
+  "n": 25,
+  "first_ms": 2.224965999999995,
+  "median_ms": 1.2718065000036916,
+  "max_ms": 3.6571059999985778,
+  "decision": "allow"
+ },
+ {
+  "style": "re",
+  "pad": 1000,
+  "kind": "denied",
+  "n": 25,
+  "first_ms": 10.016444000001457,
+  "median_ms": 2.27435299999712,
+  "max_ms": 7.655789000004631,
+  "decision": "geo_blocked"
+ },
+ {
+  "style": "re",
+  "pad": 10000,
+  "kind": "allowed",
+  "n": 25,
+  "first_ms": 4.579264999996724,
+  "median_ms": 2.655131000000921,
+  "max_ms": 12.958790999995529,
+  "decision": "allow"
+ },
+ {
+  "style": "re",
+  "pad": 10000,
+  "kind": "denied",
+  "n": 25,
+  "first_ms": 125.89024700000095,
+  "median_ms": 19.135767999998166,
+  "max_ms": 62.78408300000393,
+  "decision": "geo_blocked"
+ }
+]
